@@ -1,0 +1,33 @@
+body{
+	background: #000;
+}
+footer{
+	width: 100%;
+	text-align: center;
+	background: #333;
+	color: #999;
+	padding: 1em 0;
+}
+.container{
+	background: #f2f2f2;
+}
+
+.formulario{
+	background: yellow;
+	font-family: Arial;
+	position: absolute;
+	padding: 4em;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.formulario1{
+	background: white;
+	font-family: Arial;
+	position: absolute;
+	padding: 4em;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
